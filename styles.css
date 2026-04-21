@@ -1185,12 +1185,12 @@ header {
 }
 
 .header-logo {
-    width: 72px;
+    width: 100px;
     height: auto;
     border-radius: 18px;
     padding: 0.55rem;
-    background: linear-gradient(135deg, rgba(32, 88, 255, 0.12), rgba(255,255,255,0.3));
-    box-shadow: 0 20px 40px rgba(32, 88, 255, 0.08);
+
+   
     animation: floatUp 5s ease-in-out infinite alternate;
 }
 
